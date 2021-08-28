@@ -1,0 +1,7 @@
+{
+	"JS: console.log": {
+		"prefix": "ccw",
+		"body": "console.log('опачки$0');",
+		"description": "JS console log"
+	 }
+}

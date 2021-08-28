@@ -1,0 +1,4 @@
+[2021-08-19 08:10:10.893] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-19 08:10:12.703] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-19 08:10:20.479] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-19 08:10:20.480] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210816T013128, 20210817T143506'

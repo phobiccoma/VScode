@@ -1,0 +1,10 @@
+{
+	"margin 0-auto": {
+		"prefix": "dc",
+		"body": [
+			"<div class='container'>",
+			"$0",
+			"</div>"
+		]
+	}
+}

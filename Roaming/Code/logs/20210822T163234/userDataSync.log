@@ -1,0 +1,5 @@
+[2021-08-22 16:32:35.312] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-08-22 16:32:35.312] [settingssync] [info] Auto Sync is enabled.
+[2021-08-22 16:32:35.312] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2021-08-22 16:32:36.509] [settingssync] [info] Auto Sync: Started
+[2021-08-22 16:32:36.509] [settingssync] [info] Auto Sync: Triggered by Interval

@@ -1,0 +1,81 @@
+{
+	"name": "ecsstractor",
+	"displayName": "eCSStractor",
+	"description": "Extracting selectors from HTML and generate CSS stylesheet",
+	"version": "2.2.1",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kubosho/vscode-ecsstractor.git"
+	},
+	"publisher": "kubosho",
+	"engines": {
+		"vscode": "^1.58.1",
+		"node": "^16.5.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.ecsstractor.run"
+	],
+	"main": "./out/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.ecsstractor.run",
+				"title": "Run: eCSStractor"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "yarn run compile",
+		"compile": "tsc -p ./",
+		"lint": "eslint src --ext ts",
+		"watch": "tsc -watch -p ./",
+		"pretest": "yarn run compile && yarn run lint",
+		"test": "ava",
+		"test_with_vscode": "node ./out/__tests__/runTest.js",
+		"format": "prettier --write ./src/**/*.{js,ts}",
+		"release": "semantic-release"
+	},
+	"devDependencies": {
+		"@semantic-release/changelog": "5.0.1",
+		"@semantic-release/commit-analyzer": "8.0.1",
+		"@semantic-release/git": "9.0.0",
+		"@semantic-release/github": "7.2.3",
+		"@semantic-release/release-notes-generator": "9.0.3",
+		"@types/esprima": "4.0.3",
+		"@types/estree": "0.0.50",
+		"@types/glob": "7.1.4",
+		"@types/htmlparser2": "3.10.3",
+		"@types/mocha": "9.0.0",
+		"@types/node": "16.4.1",
+		"@types/prettier": "2.3.2",
+		"@types/vscode": "1.58.1",
+		"@typescript-eslint/eslint-plugin": "4.28.5",
+		"@typescript-eslint/parser": "4.28.5",
+		"ava": "3.15.0",
+		"eslint": "7.31.0",
+		"glob": "7.1.7",
+		"mocha": "9.0.3",
+		"react": "17.0.2",
+		"semantic-release": "17.4.4",
+		"semantic-release-vsce": "3.4.1",
+		"typescript": "4.3.2",
+		"vscode-test": "1.5.2"
+	},
+	"dependencies": {
+		"domhandler": "^4.2.0",
+		"esprima": "^4.0.1",
+		"htmlparser2": "^6.1.0",
+		"option-t": "^28.0.0",
+		"prettier": "^2.3.2"
+	},
+	"__metadata": {
+		"id": "40af0235-e41b-4be0-a959-204bda31ea7f",
+		"publisherId": "3f351504-4d40-4bc6-8281-43f51d9082d9",
+		"publisherDisplayName": "kubosho",
+		"installedTimestamp": 1627919921959
+	}
+}

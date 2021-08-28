@@ -1,0 +1,7 @@
+{
+	"JS: console.log": {
+		"prefix": "cc",
+		"body": "console.log($0);",
+		"description": "JS console log"
+	 }
+}

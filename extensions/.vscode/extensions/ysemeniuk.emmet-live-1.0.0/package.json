@@ -1,0 +1,57 @@
+{
+	"name": "emmet-live",
+	"displayName": "Emmet Live",
+	"description": "Expand your Emmet abbreviations dynamically",
+	"version": "1.0.0",
+	"publisher": "ysemeniuk",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/semeniuk/vscode-emmet-live.git"
+	},
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"icon": "img/logo.png",
+	"activationEvents": [
+		"onCommand:ysemeniuk.emmetLive"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "ysemeniuk.emmetLive",
+				"title": "Emmet Live"
+			}
+		],
+		"keybindings": [
+			{
+				"mac": "cmd+k cmd+l",
+				"key": "ctrl+k ctrl+l",
+				"command": "ysemeniuk.emmetLive",
+				"when": "editorTextFocus"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"vscode": "^1.1.35",
+		"mocha": "^6.1.4",
+		"eslint": "^6.0.1",
+		"@types/node": "^12.0.10",
+		"@types/mocha": "^5.2.7"
+	},
+	"dependencies": {
+		"vscode-emmet-helper": "^1.2.16"
+	},
+	"__metadata": {
+		"id": "d9a418aa-8502-487d-a3f3-aa19b441c276",
+		"publisherId": "d5d23450-36f4-4dbf-96a2-6941e4b81227",
+		"publisherDisplayName": "Yurii Semeniuk"
+	}
+}

@@ -1,0 +1,157 @@
+["INFO" - 18:05:11] Extension Name: esbenp.prettier-vscode.
+["INFO" - 18:05:11] Extension Version: 8.1.0.
+["INFO" - 18:06:45] Formatting c:\code\templates\!default\#src\index.html
+["INFO" - 18:06:45] Using ignore file (if present) at c:\code\templates\!default\.prettierignore
+["INFO" - 18:06:45] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 18:06:45] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:06:45] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\code\\templates\\!default\\#src\\index.html",
+  "parser": "html"
+}
+["INFO" - 18:06:45] Formatting completed in 79.9914ms.
+["INFO" - 18:07:57] Formatting c:\code\templates\!default\#src\index.html
+["INFO" - 18:07:57] Using ignore file (if present) at c:\code\templates\!default\.prettierignore
+["INFO" - 18:07:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 18:07:57] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:07:57] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\code\\templates\\!default\\#src\\index.html",
+  "parser": "html"
+}
+["INFO" - 18:07:57] Formatting completed in 30.1865ms.
+["INFO" - 18:07:58] Formatting c:\code\templates\!default\#src\index.html
+["INFO" - 18:07:58] Using ignore file (if present) at c:\code\templates\!default\.prettierignore
+["INFO" - 18:07:58] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 18:07:58] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:07:58] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\code\\templates\\!default\\#src\\index.html",
+  "parser": "html"
+}
+["INFO" - 18:07:58] Formatting completed in 30.609ms.
+["INFO" - 18:08:00] Formatting c:\code\templates\!default\#src\index.html
+["INFO" - 18:08:00] Using ignore file (if present) at c:\code\templates\!default\.prettierignore
+["INFO" - 18:08:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 18:08:00] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:08:00] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\code\\templates\\!default\\#src\\index.html",
+  "parser": "html"
+}
+["INFO" - 18:08:00] Formatting completed in 23.8137ms.
+["INFO" - 18:08:03] Formatting c:\code\templates\!default\#src\index.html
+["INFO" - 18:08:03] Using ignore file (if present) at c:\code\templates\!default\.prettierignore
+["INFO" - 18:08:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 18:08:03] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 18:08:03] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "c:\\code\\templates\\!default\\#src\\index.html",
+  "parser": "html"
+}
+["INFO" - 18:08:03] Formatting completed in 24.1273ms.

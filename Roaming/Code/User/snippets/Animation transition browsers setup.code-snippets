@@ -1,0 +1,13 @@
+{
+	"Animation transition setup": {
+		"prefix": "ats",
+		"body": [
+		  "transition: all 0.5s ease 0s;",
+		  "-webkit-transition: all 0.5s ease 0s;",
+		  "-moz-transition: all 0.5s ease 0s;",
+		  "-ms-transition: all 0.5s ease 0s;",
+		  "-o-transition: all 0.5s ease 0s;"
+		],
+		"description": "Animation transition setup for main browsers"
+	 }
+}

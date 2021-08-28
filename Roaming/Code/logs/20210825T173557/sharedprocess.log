@@ -1,0 +1,9 @@
+[2021-08-25 17:36:00.007] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-25 17:36:00.899] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-25 17:36:06.996] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-25 17:36:08.995] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-25 17:36:09.463] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-25 17:36:09.463] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210817T152039'
+[2021-08-25 17:36:29.473] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-25 17:36:29.473] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-25 17:36:39.464] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

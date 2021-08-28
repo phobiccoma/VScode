@@ -1,0 +1,10 @@
+{
+	"&__": {
+		"prefix": "qq",
+		"body": ["&__$0{",
+			"",
+			"}"
+		],
+		"description": "quick &__ for SCSS"
+	 }
+}

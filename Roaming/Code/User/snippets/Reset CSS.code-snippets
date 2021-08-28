@@ -1,0 +1,15 @@
+{
+	"Reset CSS": {
+		"prefix": "reset",
+		"body": [
+			"	padding: 0;",
+			"	margin: 0;",
+			"	border: 0;",
+			"	-moz-box-sizing: border-box;",
+			"	-webkit-box-sizing: border-box;",
+			"	box-sizing: border-box;",
+			"}"
+		],
+		"description": "reset CSS indents for main browsers"
+	}
+}

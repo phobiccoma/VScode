@@ -1,0 +1,6 @@
+{
+	"padding-inline": {
+		"prefix": "pi",
+		"body": "padding-inline: $0;",
+	 }
+}

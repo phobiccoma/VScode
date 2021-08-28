@@ -1,0 +1,49 @@
+[2021-08-22 16:32:35.487] [exthost] [info] extension host started
+[2021-08-22 16:32:35.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-08-22 16:32:35.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-08-22 16:32:35.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-22 16:32:35.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-22 16:32:35.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-22 16:32:35.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-08-22 16:32:35.561] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-08-22 16:32:35.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/.vscode/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-08-22 16:32:35.605] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-08-22 16:32:35.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/.vscode/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-08-22 16:32:35.608] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-08-22 16:32:35.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-08-22 16:32:35.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-22 16:32:35.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-08-22 16:32:35.848] [exthost] [info] eager extensions activated
+[2021-08-22 16:32:35.851] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-22 16:32:35.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-22 16:32:35.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-22 16:32:35.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-22 16:32:35.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-22 16:32:35.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-22 16:32:35.943] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl-recommender","_lower":"ms-vscode-remote.remote-wsl-recommender"},"activationEvent":"onStartupFinished"}
+[2021-08-22 16:32:35.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-08-22 16:32:35.957] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-22 16:32:35.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-22 16:32:36.083] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2021-08-22 16:32:36.083] [exthost] [error] TypeError: Cannot assign to read only property 'prettierPath' of object '#<Object>'
+    at Object.logInfo [as getConfig] (c:\Users\petooshkevich\.vscode\extensions\esbenp.prettier-vscode-8.1.0\src\util.ts:42:12)
+    at e.activate (c:\Users\petooshkevich\.vscode\extensions\esbenp.prettier-vscode-8.1.0\src\extension.ts:29:20)
+    at Function._callActivateOptional (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:14919)
+    at Function._callActivate (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:14592)
+    at c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:90:12789
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+[2021-08-22 16:32:36.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-08-22 16:32:36.101] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/petooshkevich/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-08-22 16:32:37.193] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-22 16:32:37.199] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:5:1157)
+    at h._remoteCall (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:89:9388)
+    at E.resolveProxy (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:94:57628)
+    at useProxySettings (c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:159:16)
+    at c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:107:13
+    at c:\Users\petooshkevich\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:335:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-08-22 16:32:38.198] [exthost] [info] exiting with code 0

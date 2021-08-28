@@ -1,0 +1,14 @@
+{
+	"fancybox error fix": {
+		"prefix": "fancy",
+		"body": [
+			"@function max(${1:$}numbers...) {",
+			" @return m#{a}x(#{${1:$}numbers});",
+			"}",
+
+			"@function min(${1:$}numbers...) {",
+			" @return m#{i}n(#{${1:$}numbers});",
+			"}"
+		],
+	 }
+}

@@ -1,0 +1,7 @@
+{
+	"Border": {
+		"prefix": "br",
+		"body": "border: 2px solid red;",
+		"description": "quick colored border for testing"
+	 }
+}

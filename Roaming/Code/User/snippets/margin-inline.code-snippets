@@ -1,0 +1,6 @@
+{
+	"margin-inline": {
+		"prefix": "mi",
+		"body": "margin-inline: $0;",
+	 }
+}

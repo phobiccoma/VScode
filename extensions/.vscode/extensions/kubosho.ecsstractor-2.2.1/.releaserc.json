@@ -1,0 +1,35 @@
+{
+  "branches": ["master", "next"],
+  "verifyConditions": [
+    "@semantic-release/changelog",
+    "@semantic-release/github",
+    "@semantic-release/git",
+    "semantic-release-vsce"
+  ],
+  "prepare": [
+    {
+      "path": "@semantic-release/changelog",
+      "changelogFile": "CHANGELOG.md"
+    },
+    {
+      "path": "@semantic-release/git",
+      "assets": ["CHANGELOG.md", "package.json"],
+      "message": "chore(release): [skip ci] Update v${nextRelease.version}\n\n${nextRelease.notes}"
+    },
+    {
+      "path": "semantic-release-vsce",
+      "packageVsix": "ecsstractor.vsix"
+    }
+  ],
+  "publish": [
+    "semantic-release-vsce",
+    {
+      "path": "@semantic-release/github",
+      "assets": "ecsstractor.vsix"
+    }
+  ],
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator"
+  ]
+}

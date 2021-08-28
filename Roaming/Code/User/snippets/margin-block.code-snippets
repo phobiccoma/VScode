@@ -1,0 +1,6 @@
+{
+	"margin-block": {
+		"prefix": "mb",
+		"body": "margin-block: $0;",
+	 }
+}

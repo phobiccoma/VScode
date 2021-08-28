@@ -1,0 +1,6 @@
+{
+	"padding-block": {
+		"prefix": "pbb",
+		"body": "padding-block: $0;",
+	 }
+}

@@ -1,0 +1,35 @@
+Validating found git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.32.0.windows.2 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --git-dir
+Open repository: c:\code\templates\!default
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :#src/index.html
+> git ls-files --stage -- C:\code\templates\!default\#src\index.html
+> git check-ignore -v -z --stdin
+> git cat-file -s 6016ebca2ff26e29e5e219c7e1cbe3c49ba1c74f
+> git show --textconv :#src/scss/_reset.scss
+> git ls-files --stage -- C:\code\templates\!default\#src\scss\_reset.scss
+> git cat-file -s 7cd1a3ba45f48f750c7f365cdf9d39e8d321b32a
+> git show --textconv :#src/scss/_normalize.scss
+> git ls-files --stage -- C:\code\templates\!default\#src\scss\_normalize.scss
+> git cat-file -s 2c085821d89b8e6d290a5924d0e4c45b075a158d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :#src/scss/_reset.scss
+> git ls-files --stage -- C:\code\templates\!default\#src\scss\_reset.scss
+> git cat-file -s 7cd1a3ba45f48f750c7f365cdf9d39e8d321b32a
+> git show --textconv :#src/scss/_normalize.scss
+> git ls-files --stage -- C:\code\templates\!default\#src\scss\_normalize.scss
+> git cat-file -s 2c085821d89b8e6d290a5924d0e4c45b075a158d
+> git show --textconv :#src/scss/_reset.scss
+> git ls-files --stage -- C:\code\templates\!default\#src\scss\_reset.scss
+> git cat-file -s 7cd1a3ba45f48f750c7f365cdf9d39e8d321b32a

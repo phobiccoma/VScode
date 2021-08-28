@@ -1,0 +1,18 @@
+[2021-08-28 17:09:02.744] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:03.609] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:05.610] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:05.637] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2021-08-28 17:09:07.146] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode c:\Users\petooshkevich\AppData\Roaming\Code\CachedExtensionVSIXs\tabnine.tabnine-vscode-3.4.23
+[2021-08-28 17:09:07.180] [sharedprocess] [info] Extracted extension to c:\Users\petooshkevich\.vscode\extensions\.0553da47-7fcf-4423-ad11-560800d28811: tabnine.tabnine-vscode
+[2021-08-28 17:09:07.190] [sharedprocess] [info] Renamed to c:\Users\petooshkevich\.vscode\extensions\tabnine.tabnine-vscode-3.4.23
+[2021-08-28 17:09:07.192] [sharedprocess] [info] Extracting completed. tabnine.tabnine-vscode
+[2021-08-28 17:09:07.203] [sharedprocess] [info] Extension installed successfully: tabnine.tabnine-vscode
+[2021-08-28 17:09:08.180] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:11.173] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:12.147] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-28 17:09:12.148] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210817T161402'
+[2021-08-28 17:09:32.147] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-28 17:09:32.147] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-28 17:09:42.147] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-28 17:09:49.595] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-08-28 17:09:51.561] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles

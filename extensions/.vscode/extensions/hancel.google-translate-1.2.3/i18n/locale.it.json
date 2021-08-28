@@ -1,0 +1,33 @@
+{
+    "wait.message": "Aspetta un attimo",
+    "failed.message": "Errore nella traduzione",
+    "clipboard.message": "I risultati della traduzione sono stati inseriti negli Appunti.",
+    "hoverOn.message": "La traduzione al passaggio del mouse Ã¨ attivata.",
+    "hoverOff.message": "La traduzione al passaggio del mouse Ã¨ disattivata.",
+    "on.text": "aperto",
+    "off.text": "vicino",
+    "on.tooltip": "Attiva la traduzione al passaggio del mouse",
+    "off.tooltip": "Disattiva la traduzione al passaggio del mouse",
+    "like.extension": "Ti piace questa estensione (Google Translate)? Spero di ottenere i vostri commenti gentilmente favorevoli.",
+    "like.ok": "sï¿½",
+    "like.no": "No",
+    "like.later": "Ricordalo dopo",
+    "switch.success": "La lingua di destinazione è stata passata a ",
+    "switch.message": "Quale lingua di destinazione vuoi cambiare?",
+    "switch.tip": "Lingua di destinazione",
+    "from.success": "Rileva il linguaggio è stato commutato a ",
+    "from.message": "Che rileva la lingua vuoi cambiare?",
+    "from.tip": "Rileva lingua",
+    "swap.tip": "Swap doeltaal.",
+    "swap.success": "Swap primo e secondo successo della lingua di destinazione.",
+    "replace.message": "Tutte le selezioni sono state tradotte."
+}
+
+
+
+
+
+
+
+
+

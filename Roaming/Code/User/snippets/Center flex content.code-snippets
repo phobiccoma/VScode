@@ -1,0 +1,10 @@
+{
+	"Center flex content": {
+		"prefix": "fc",
+		"body": [
+		  "justify-content: center;",
+		  "align-items: center;"
+		],
+		"description": "Center flex content..only for display:flex obviously"
+	 }
+}

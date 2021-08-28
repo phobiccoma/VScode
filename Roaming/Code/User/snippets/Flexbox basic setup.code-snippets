@@ -1,0 +1,13 @@
+{
+	"quick flex:display": {
+		"prefix": "fb",
+		"body": [
+			"flex: display;",
+			"display: -webkit-flex;",
+			"display: -moz-flex;",
+			"display: -ms-flex;",
+			"display: -o-flex;"
+		],
+		"description": "quick flex:display setup for main browsers"
+	}
+}
